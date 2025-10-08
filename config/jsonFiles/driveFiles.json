@@ -1,0 +1,24 @@
+{
+    "ROOT": "",
+    "Automation": 
+    {  
+        "1. Add Audio": "", 
+        "1.1. MUSIC FILES": "",
+        "1.2. VIDEO FILES": "",
+        "2. Content to Send Off": "",
+        "3. Awaiting Assessment": "",
+        "X. ARCHIVE CONTENT": ""
+    },
+    "User Content":
+    {
+        "Raw Text": "",
+        "Raw Video": "",
+        "Sessions": {
+            "Dance Sessions": "",
+            "Leadership Sessions": "",
+            "Mindfulness": ""
+        }
+    }
+}
+
+//Copy the google drive IDs to the files in this list to access the drive
