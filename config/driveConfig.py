@@ -109,6 +109,9 @@ class GoogleDrive:
     
     def getFolders(self):
         return self._folders
+
+    def showRoot(self):
+        print(self.list_files_in_folder(ROOT_FOLDER))
     
     def download_file(self, file_id, filename):
         localName = os.path.join(LOCAL_DOWNLOAD_DIR, filename)
